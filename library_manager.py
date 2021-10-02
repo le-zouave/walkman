@@ -19,12 +19,8 @@ for i,l in enumerate(library):
 
     ll = re.split('\t+', l)
 
-    if i == 32:
-        print(ll)
-        break
-
     album.append(ll[0].strip('"\n'))
     artist.append(ll[1].strip('"\n'))
     genre.append((ll[2]).strip('"\n'))
 
-    # print("halte")
+print("halte")
