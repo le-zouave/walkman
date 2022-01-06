@@ -2,11 +2,10 @@
 This script allows for manipulation of the album_list_OG file.
 Code compatible for \t width of 4
 
-note: album_list_OG.txt is NEVER to be opened in write mode (generally) !
+note: lib_charles.txt is NEVER to be opened in write mode (generally) !
 
-TODO: add every vinyl in collection to spotify library and to album_list_OG.txt
+TODO: add every vinyl in collection to spotify library and to lib_charles.txt
 """
-
 import numpy as np
 import pandas as pd
 import math
@@ -19,7 +18,7 @@ gen_w = 4*9
 vin_w = 0
 
 
-with open("library/album_list_OG.txt", "r") as library:
+with open("library/lib_charles.txt", "r") as library:
     # unpack lines
     album = []
     artist = []
