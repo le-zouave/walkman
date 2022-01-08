@@ -1,12 +1,10 @@
 # walkman 
 
----
 
 A straightforward random album selector for music libraries
 
 ## Installation
 
----
 
     git clone git@github.com:le-zouave/walkman.git
     pip install -r path/to/cloned/repo/walkman/requirements.txt
@@ -25,7 +23,6 @@ Add the following lines anywhere, in this order:
 `walkman` can then be run from any directory.
 ## Usage
 
----
 
 With the above configuration, `walkman` can be used as follows:
 
