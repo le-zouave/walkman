@@ -3,3 +3,5 @@
 __pycache__
 walkman.egg-info
 venv
+libraries/album_list_vinyl.txt
+setup.py

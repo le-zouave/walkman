@@ -7,7 +7,6 @@ note: lib_charles.txt is NEVER to be opened in write mode (generally) !
 TODO: add every vinyl in collection to spotify library and to lib_charles.txt
 """
 import numpy as np
-import pandas as pd
 import math
 import re
 
@@ -18,7 +17,7 @@ gen_w = 4*9
 vin_w = 0
 
 
-with open("library/lib_charles.txt", "r") as library:
+with open("libraries/lib_charles.txt", "r") as library:
     # unpack lines
     album = []
     artist = []
@@ -47,7 +46,7 @@ with open("library/lib_charles.txt", "r") as library:
 
 # vinyl = ['no']*len(album)
 
-with open("./library/album_list_cobaye.txt", "w") as library:
+with open("libraries/album_list_cobaye.txt", "w") as library:
     library.write("# Spotify albums in alphabetical order (by title)\n")
     library.write("# album" + int(math.ceil((alb_w - len('# album')) / 4)) * '\t'
                   + "artist" + int(math.ceil((art_w - len('artist')) / 4)) * '\t'
@@ -80,6 +79,6 @@ with open("./library/album_list_cobaye.txt", "w") as library:
 
 # print(df.to_string(justify="left"))
 #
-# df.to_csv(path_or_buf="./library/album_list.csv", sep='\t')
+# df.to_csv(path_or_buf="./libraries/album_list.csv", sep='\t')
 
 # print("halte")

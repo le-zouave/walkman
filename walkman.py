@@ -16,13 +16,19 @@ vin_w = 0
 class Walkman(object):
 
 	def __init__(self, filename, v_tog):
+		"""
+		:param filename: full path to library file to read (str)
+		:param v_tog: toggle for vinyl collection (bool)
+		"""
 		self.filename = filename
 		self.v_tog = v_tog
 
 		self.filereader()
 
 	def filereader(self):
-
+		"""
+		Read library file and produce the shelf attribute
+		"""
 		self.shelf = {}
 
 		alb = []
@@ -54,33 +60,34 @@ class Walkman(object):
 
 		self.shelf["libsize"] = len(self.shelf["album"])
 
+		vin_var = ""
+
 		if self.v_tog:
 			self.vinyl_filter()
+			vin_var = "a vinyl "
 
 		self.all_artists = np.unique(self.shelf["artist"])
 		self.all_genres = np.unique(self.shelf["genre"])
 
-		if self.v_tog:
-			print("-" * 80)
-			print(
-				f"Read a vinyl library containing {self.shelf['libsize']} albums from {self.all_artists.size} artists across {self.all_genres.size} genres")
-			print("-" * 80)
+		print("-" * 80)
+		print(f"Read {vin_var}library containing {self.shelf['libsize']} albums from {self.all_artists.size} artists across {self.all_genres.size} genres")
+		print("-" * 80)
 
-		else:
-			print("-" * 80)
-			print(
-				f"Read library containing {self.shelf['libsize']} albums from {self.all_artists.size} artists across {self.all_genres.size} genres")
-			print("-" * 80)
 
 	def rdm_select(self):
-
-		print("Selecting random album from library")
+		"""
+		Select a random album from a complete library
+		"""
+		print("Selecting random album from library...")
 		self.ind = np.random.choice(self.shelf["libsize"])
 
 		self.walkman_display()
 
 	def artist_select(self, artist):
-
+		"""
+		Select a random album given an artist in a library
+		:param artist: artist selection input (str)
+		"""
 		def find_art_ids(art):
 			art_l = ud.unidecode(art.lower()).replace(" ", "").replace("-", "")
 			art_ids = np.flatnonzero(np.core.defchararray.find(self.shelf["artist_pp"], art_l) != -1)
@@ -102,7 +109,7 @@ class Walkman(object):
 				print(f"\t({i}) {int(math.ceil((4 - len(f'({i})')))) * ' '}{amb_arr[i]}")
 
 			print()
-			disamb_artist_id = input(f"Enter number of desired artist: ")
+			disamb_artist_id = input(f"Enter number of the desired artist: ")
 			disamb_artist = amb_arr[int(disamb_artist_id)]
 
 			artist_ids = find_art_ids(disamb_artist)
@@ -112,6 +119,10 @@ class Walkman(object):
 		self.walkman_display()
 
 	def genre_select(self, genre):
+		"""
+		Select a random album given a genre in a library
+		:param genre: genre selection input (str)
+		"""
 
 		def find_gen_ids(gen):
 			gen_l = ud.unidecode(gen.lower()).replace(" ", "").replace("-", "")
@@ -134,7 +145,7 @@ class Walkman(object):
 				print(f"\t({i}) {int(math.ceil((4 - len(f'({i})')))) * ' '}{amb_arr[i]}")
 
 			print()
-			disamb_genre_id = input(f"Enter number of desired sub-genre or nothing for any {genre} album: ")
+			disamb_genre_id = input(f"Enter number of the desired sub-genre or nothing for any {genre} album: ")
 			if len(disamb_genre_id) == 0:
 				pass
 			else:
@@ -146,7 +157,9 @@ class Walkman(object):
 		self.walkman_display()
 
 	def walkman_display(self):
-
+		"""
+		Music selection display in terminal
+		"""
 		print()
 		print(f"    /-----------------------------------\ \n"
 			  f"  <|           Music selection           |>\n"
@@ -156,7 +169,9 @@ class Walkman(object):
 			  f"{' ' * 7}genre: {int(math.ceil((10 - len('genre: ')))) * ' '}{self.shelf['genre'][self.ind]}\n")
 
 	def vinyl_filter(self):
-
+		"""
+		Selects the albums from a library which are in a vinyl collection to produce a new shelf attribute
+		"""
 		vshelf = {"album": self.shelf["album"][self.shelf["vinyl"] == "yes"],
 				  "artist": self.shelf["artist"][self.shelf["vinyl"] == "yes"],
 				  "artist_pp": self.shelf["artist_pp"][self.shelf["vinyl"] == "yes"],
@@ -169,6 +184,7 @@ class Walkman(object):
 		self.shelf = copy.copy(vshelf)
 
 
+
 if __name__ == "__main__":
 
 	parser = argparse.ArgumentParser(description="Randomly select albums from a library")
@@ -179,11 +195,11 @@ if __name__ == "__main__":
 	group.add_argument("-a", action="store_true", help="random selection given artist")
 	group.add_argument("-g", action="store_true", help="random selection given genre")
 
-	parser.add_argument("-v", action="store_true", help="select from vinyl collection")
+	parser.add_argument("-v", action="store_true", help="select from vinyl collection (can combine with other options)")
 
 	args = parser.parse_args()
 
-	filename = os.path.join(os.getenv("WALKMAN_PATH"), "library", "lib_charles.txt")
+	filename = os.path.join(os.getenv("WALKMAN_PATH"), "libraries", f"lib_{args.l}.txt")
 	wm = Walkman(filename, args.v)
 
 	# General random selection
