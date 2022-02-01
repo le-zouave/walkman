@@ -11,12 +11,14 @@ Je Joue De La Guitare																Jean Leloup									indie rock franco					n
 22, A Million																		Bon Iver									alternative/indie rock				yes
 3.15.20																				Childish Gambino							alternative r&b						no
 6- And 12-String Guitar																Leo Kottke									folk rock							no
+6 Feet Beneath The Moon																King Krule									alternative/indie rock				no
 777 - Cosmopoly																		Blut Aus Nord								post-metal							no
 8:30																				Weather Report								fusion								no
 8 Anos																				Hermanos Gutierrez							latin								no
 99.9%																				KAYTRANADA									dance								no
 A/B																					KALEO										indie folk							yes
 Abbey Road																			The Beatles									british psychedelia					no
+Absolutego																			Boris										doom metal							no
 Acquiring The Taste																	Gentle Giant								prog rock							no
 The Action Is Go																	Fu Manchu									alternative metal					no
 Act V: Hymns with the Devil in Confessional											The Dear Hunter								alternative/indie rock				no
@@ -69,6 +71,7 @@ Aromanticism																		Moses Sumney								neo-soul							no
 Arzachel																			Arzachel									psychedelic rock					no
 As The Love Continues																Mogwai										post-rock							no
 Asunder, Sweet and Other Distress													Godspeed You! Black Emperor					post-rock							yes
+ATLiens																				Outkast										southern rap						no
 Atom Heart Mother																	Pink Floyd									british psychedelia					no
 Atrocity Exhibition																	Danny Brown									alternative rap						no
 Attack & Release																	The Black Keys								alternative/indie rock				no
@@ -104,9 +107,11 @@ Black Smoke Rising																	Greta Van Fleet								rock								yes
 Blackwater Park																		Opeth										prog metal							no
 Blood Bank																			Bon Iver									alternative/indie rock				no
 Blood Bank EP (10th Anniversary Edition)											Bon Iver									alternative/indie rock				no
+Blood Inside																		Ulver										experimental electro				no
 Bloodmoon: I																		Converge									doom metal							no
 Blood Mountain																		Mastodon									prog metal							no
 Blood On The Tracks																	Bob Dylan									folk								no
+Blue Lines																			Massive Attack								trip-hop							no
 Blue Record																			Baroness									alternative metal					no
 Blues For The Red Sun																Kyuss										stoner metal						no
 The Bones of a Dying World															If These Trees Could Talk					post-metal							no
@@ -115,6 +120,7 @@ the book about my idle plot on a vague anxiety										toe											math rock	
 The Book Of Souls																	Iron Maiden									heavy metal							no
 Boris at Last - Feedbacker															Boris										post-metal							no
 Born Into Trouble As The Sparks Fly Upwards											Silver Mt. Zion								post-rock							no
+BORN LIKE THIS																		MF DOOM										underground rap						no
 Bottomless Pit																		Death Grips									alternative rap						no
 Boxer																				The National								alternative/indie rock				no
 Brain Salad Surgery																	Emerson, Lake & Palmer						prog rock							no
@@ -162,10 +168,12 @@ The Consuming Flame: Open Exercises in Group Form									Matmos										experi
 CONTRADICTIONS																		Franky Fade									rap keb								no
 Cosmogramma																			Flying Lotus								experimental electronic				no
 Crack the Skye																		Mastodon									prog metal							no
+Crash																				Les Louanges								indie pop franco					no
 A Crow Looked at Me																	Mount Eerie									alternative/indie rock				no
 Crush																				Floating Points								experimental electronic				no
 Cumbia Bamako																		LaBulKrack									latin								no
 Cumbia siglo XXI																	Meridian Brothers							latin								no
+Daddy's Home																		St. Vincent									left-field pop						no
 DAMN.																				Kendrick Lamar								rap									yes
 Damnation																			Opeth										prog metal							no
 The Dance																			Fleetwood Mac								album rock							no
@@ -202,6 +210,7 @@ Dragging a Dead Deer Up a Hill														Grouper										alternative/indie r
 The Dream Is Over																	PUP											pop punk							no
 Dreamtime Return																	Steve Roach									ambient								no
 Drukqs																				Aphex Twin									electronic							no
+Dummy																				Portishead									trip-hop							no
 The Dusk In Us																		Converge									hardcore punk						no
 Dwellers of the Deep																Wobbler										prog rock							no
 Earth 2																				Earth										noise rock							no
@@ -235,7 +244,6 @@ Favourite Worst Nightmare															Arctic Monkeys								alternative/indie 
 Fear Inoculum																		TOOL										prog metal							no
 Fear of a Blank Planet																Porcupine Tree								prog rock							yes
 Fetch The Bolt Cutters																Fiona Apple									adult alternative pop/rock			no
-Field of Reeds																		These New Puritans							alternative/indie rock				no
 The Final Cut																		Pink Floyd									prog rock							no
 Finally We Are No One																múm											indie electronic					no
 Fine Anyway																			Rogér Fakhr									singer/songwriter					no
@@ -278,6 +286,7 @@ Giant Steps																			John Coltrane								jazz								no
 GINGER																				BROCKHAMPTON								underground rap						no
 Glassworks																			Philip Glass								avant-garde							no
 The Glowing Man																		Swans										art rock							no
+GLOW ON																				Turnstile									hardcore punk						no
 The Glow, Pt. 2																		The Microphones								alternative/indie rock				no
 The Gold & Silver Sessions															Elder										stoner metal						no
 Goodbye Blue																		BADBADNOTGOOD								jazz								no
@@ -295,6 +304,7 @@ Hallowed Be Thy Name																Iron Maiden									heavy metal							yes
 Hand Cannot Erase																	Steven Wilson								prog rock							yes
 Handmade Cities																		Plini										prog metal							no
 H.A.Q.Q.																			Liturgy										black metal							no
+Haram																				Armand Hammer								left-field rap						no
 Harmonium																			Harmonium									prog rock franco					yes
 Harvest																				Neil Young									folk								no
 Head Hunters																		Herbie Hancock								jazz								no
@@ -391,6 +401,7 @@ Kenotic																				Hammock										post-rock							no
 Kentucky																			Panopticon									black metal							no
 Kezia																				Protest The Hero							post-hardcore						no
 K.G.																				King Gizzard & The Lizard Wizard			neo-psychedelia						no
+KICK ii																				Arca										left-field pop						no
 Kid A																				Radiohead									alternative/indie rock				yes
 KIDS SEE GHOSTS																		KIDS SEE GHOSTS								rap									no
 Killers																				Iron Maiden									heavy metal							no
@@ -408,6 +419,7 @@ The Lamb Lies Down On Broadway														Genesis										prog rock							yes
 La Mer; Prélude à L'après-midi d'un faune											Claude Debussy								classical							yes
 L'amour Est Sans Pitié																Jean Leloup									indie rock franco					no
 Land & Sea																			Ziggy Alberts								indie rock							no
+La nuit est une panthère															Les Louanges								indie pop franco					no
 Laps Around The Sun																	Ziggy Alberts								indie rock							no
 Larks' Tonhues In Aspic																King Crimson								prog rock							no
 Lateralus																			TOOL										alternative metal					yes
@@ -434,7 +446,7 @@ L'heptade																			Harmonium									prog rock franco					yes
 Lianne La Havas																		Lianne La Havas								alternative r&b						no
 Licensed To Ill																		Beastie Boys								east coast rap						no
 Lift Your Skinny Fists Like Antennas To Heaven										Godspeed You! Black Emperor					post-rock							yes
-...Like Clockwork																	Queens of the Stone Age						alternative metal					no
+...Like Clockwork																	Queens of the Stone Age						hard rock							no
 Liquid Swords																		GZA											east coast rap						no
 Little Dark Age																		MGMT										indie pop							no
 Live After Death																	Iron Maiden									heavy metal							yes
@@ -443,6 +455,7 @@ Live at Roadburn 2013																Elder										stoner metal						no
 Live from Joshua Tree																RÜFÜS DU SOL								indie electronic					no
 Live In San Francisco '16															King Gizzard & The Lizard Wizard			neo-psychedelia						no
 Lizard																				King Crimson								prog rock							no
+London Calling																		The Clash									british punk						no
 Lonerism																			Tame Impala									neo-psychedelia						yes
 The Lonesome Crowded West															Modest Mouse								alternative/indie rock				no
 LONG SEASON																			Fishmans									dream pop							no
@@ -485,6 +498,7 @@ Means of Deliverance																Bill Laswell								experimental						no
 Meddle																				Pink Floyd									british psychedelia					yes
 Med sud i eyrum vid spilum endalaust												Sigur Rós									alternative/indie rock				no
 Mekanik destruktiw kommandoh														Magma										zeuhl								no
+Mellon Collie And The Infinite Sadness												The Smashing Pumpkins						post-grunge							no
 Melodrama																			Lorde										alternative pop/rock				no
 Mendeleyev																			Mendeleyev									indie rock							no
 Mer De Noms																			A Perfect Circle							alternative metal					no
@@ -496,6 +510,7 @@ Métropole																			Anomalie									electronic jazz						no
 Métropole Part II																	Anomalie									electronic jazz						no
 Mettavolution																		Rodrigo y Gabriela							contemporary flamenco				no
 Mezmerize																			System Of A Down							alternative metal					yes
+Mezzanine																			Massive Attack								trip-hop							no
 Microcastle																			Deerhunter									experimental rock					no
 Midnight Marauders																	A Tribe Called Quest						east coast rap						no
 The Migration																		Scale The Summit							prog metal							no
@@ -523,6 +538,7 @@ Mother Earth's Plantasia															Mort Garson									electronic							no
 Mothership																			Led Zeppelin								album rock							no
 Mothership Connection																Parliament									funk								no
 The Mountain																		Haken										prog metal							no
+Mount Eerie																			The Microphones								alternative/indie rock				no
 Moving Pictures																		Rush										prog rock							yes
 Moving Waves																		Focus										prog rock							no
 Symphony No. 40 in G minor															Wolfgang Amadeus Mozart						classical							no
@@ -536,11 +552,13 @@ My Arms, Your Hearse																Opeth										death metal							no
 My Beatiful Dark Twisted Fantasy													Kanye West									midwest rap							no
 Mystic Familiar																		Dan Deacon									indie electronic					no
 A Mythology of Circles																Faten Kanaan								post-minimalism						no
+Nattens Madrigal																	Ulver										black metal							no
 Naturality																			ORB											alternative metal					no
 Nevermind																			Nirvana										grunge								no
 The New Abnormal																	The Strokes									alternative/indie rock				no
 A Night At The Opera																Queen										album rock							yes
 Nikki Nack																			Tune-Yards									indie rock							no
+No																					Boris										post-hardcore						no
 NO DREAM																			Jeff Rosenstock								pop punk							yes
 No Jacket Required																	Phil Collins								soft rock							yes
 Nola																				DOWN										alternative metal					no
@@ -587,6 +605,7 @@ Paranoid																			Black Sabbath								heavy metal							no
 Para Quienes Aún Viven																Exquiria									post-rock							no
 A Passion Play																		Jethro Tull									prog rock							yes
 Paul's Boutique																		Beastie Boys								east coast rap						no
+Perdition City																		Ulver										experimental electro				no
 Permanent Waves																		Rush										prog rock							no
 Petitioning The Empty Sky															Converge									hardcore punk						no
 Pet Sounds																			The Beach Boys								baroque pop							no
@@ -610,6 +629,7 @@ Polygondwanaland																	King Gizzard & The Lizard Wizard			prog rock			
 POST-																				Jeff Rosenstock								pop punk							no
 The Power and the Glory																Gentle Giant								prog rock							no
 Powerslave																			Iron Maiden									heavy metal							no
+The Price Of Tea In China															Boldy James									underground rap						no
 Primitive and Deadly																Earth										post-metal							no
 Promises																			Floating Points								avant-garde							no
 Protean Threat																		Osees, Thee Oh Sees							psychedelic rock					no
@@ -624,6 +644,7 @@ The Queen Is Dead																	The Smiths									alternative/indie rock				n
 The Quietest Place On Earth															We Lost The Sea								post-rock							no
 The Rabbit That Hunts Tigers														Yin Yin										alternative/indie rock				no
 Radiohead, A Jazz Orchestra															Noordpool Orchestra							jazz								no
+Rainbow Bridge 3																	Sematary									horrorcore							no
 RAM																					Paul McCartney								soft rock							yes
 Random Access Memories																Daft Punk									electronica							no
 Rated R																				Queens of the Stone Age						alternative metal					no
@@ -634,9 +655,11 @@ Red Forest																			If These Trees Could Talk					post-metal							no
 Reduxer																				alt-J										alternative/indie rock				no
 Reflections of a Floating World														Elder										stoner metal						no
 Refuge Cove																			Grace Cummings								alternative folk					no
+Relatives In Descent																Protomartyr									punk revival						no
 Relaxer																				alt-J										alternative/indie rock				no
 Relayer																				Yes											prog rock							yes
 Remain In Light																		Talking Heads								contemporary pop/rock				no
+Rêver Mieux																			Daniel Bélanger								alternative/indie pop franco		no
 Revolver																			The Beatles									british psychedelia					no
 Rythhms From A Cosmic Sky															Earthless									stoner metal						no
 The Rip Tide																		Beirut										alternative folk					no
@@ -708,10 +731,12 @@ Soundtracks For The Blind															Swans										experimental rock					no
 Sour Soul																			BADBADNOTGOOD								jazz rap							no
 Souvenirs d'un autre monde															Alcest										black metal							no
 Space Is the Key																	SLIFT										neo-psychedelia						no
+Speakerboxxx/The Love Below															Outkast										southern rap						no
 Spiderland																			Slint										math rock							no
 Spiritual Instinct																	Alcest										post-metal							no
 Splendor & Misery																	clipping.									experimental rap					no
 S/T																					This Will Destroy You						post-rock							no
+Stankonia																			Outkast										southern rap						no
 Starless And Bible Black															King Crimson								prog rock							no
 Steal This Album!																	System Of A Down							alternative metal					no
 Steve Reich: Electric Counterpoint													Steve Reich									avant-garde							no
@@ -746,6 +771,7 @@ Tea For The Tillerman																Cat Stevens									soft rock							yes
 A Tear in the Fabric of Life														Knocked Loose								metalcore							no
 Teenage Gizzard																		King Gizzard & The Lizard Wizard			garage rock							no
 Teens of Denial																		Car Seat Headrest							alternative/indie rock				no
+Telefone																			Noname										midwest rap							no
 Tell Me I'm Pretty																	Cage The Elephant							alternative/indie rock				no
 Tellurian																			Soen										prog metal							no
 Tempel																				Colour Haze									stoner metal						no
