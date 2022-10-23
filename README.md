@@ -1,7 +1,7 @@
 # walkman 
 
 
-A straightforward random album selector for music libraries
+A minimal random album selector for music libraries
 
 ## Installation
 
